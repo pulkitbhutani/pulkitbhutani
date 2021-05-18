@@ -1,11 +1,14 @@
 ### Hi there, I'm Pulkit 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@bhutanipulkit-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bhutanipulkit)](https://twitter.com/bhutanipulkit)
+<a href="https://twitter.com/bhutanipulkit">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/pulkitbhutani/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-[![Twitch: thaianebraga](https://img.shields.io/badge/-@pulkitbhutani-purple?style=flat-square&logo=twitch&logoColor=white)]
-(https://www.twitch.tv/javascriptwithpulkit/)
+<a href="https://www.twitch.tv/javascriptwithpulkit/">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+</a>
 
 - 👀 I’m interested in **learning new web technologies** and **building applications that improve efficiency**
 - 🌱 I’m currently learning (mostly) **ReactJS** & **NodeJS**
