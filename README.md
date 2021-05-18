@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning (mostly) **ReactJS** & **NodeJS**
 - 🤔  I’m looking for help with getting a remote job
 - 📫 How to reach me? Mail me at **pulkitbhutani@outlook.com**
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pulkitbhutani&show_icons=true&theme=dracula" alt="pulkitbhutani" /> 
 </p>
 <p align="left">
@@ -27,6 +27,7 @@
 </p>
 
 <!--
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 **pulkitbhutani/pulkitbhutani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
