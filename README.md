@@ -1,5 +1,7 @@
-### Hi there, I'm Pulkit 👋
 
+<h2 align='center'>
+### Hi there, I'm Pulkit 👋
+</h2>
 <p align='center'>
     <a href="https://twitter.com/bhutanipulkit">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
