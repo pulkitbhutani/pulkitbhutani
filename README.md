@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning (mostly) **ReactJS** & **NodeJS**
 - 🤔  I’m looking for help with getting a remote job
 - 📫 How to reach me? Mail me at **pulkitbhutani@outlook.com**
-<img align='right' src="https://tenor.com/view/michael-luke-work-from-home-get-up-working-sleep-gif-16827233" width="230">
+<img align='right' src="https://media1.tenor.com/images/707eb8afe6aeb1ba0c9fb8299d1be1f7/tenor.gif" width="230">
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pulkitbhutani&show_icons=true&theme=dracula" alt="pulkitbhutani" /> 
 </p>
 <p align="left">
