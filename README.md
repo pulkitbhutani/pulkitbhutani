@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pulkitbhutani&show_icons=true&theme=dracula" alt="pulkitbhutani" /> 
+</p>
 <!--
 **pulkitbhutani/pulkitbhutani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
