@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@bhutanipulkit-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bhutanipulkit)](https://twitter.com/bhutanipulkit)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-@pulkitbhutani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pulkitbhutani/)](https://www.linkedin.com/in/pulkitbhutani/)
 [![Twitch: thaianebraga](https://img.shields.io/badge/-@pulkitbhutani-purple?style=flat-square&logo=twitch&logoColor=white&https://www.twitch.tv/javascriptwithpulkit)]
-(https://www.twitch.tv/javascriptwithpulkit)
+(https://www.twitch.tv/javascriptwithpulkit/)
 
 - 👀 I’m interested in **learning new web technologies** and **building applications that improve efficiency**
 - 🌱 I’m currently learning (mostly) **ReactJS** & **NodeJS**
