@@ -1,6 +1,6 @@
 
 <h2 align='center'>
-### Hi there, I'm Pulkit 👋
+    Hi there, I'm Pulkit 👋
 </h2>
 <p align='center'>
     <a href="https://twitter.com/bhutanipulkit">
