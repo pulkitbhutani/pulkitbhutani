@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
     </a>
 </p>
-### About Me:
+## About Me:
 - 👀 I’m interested in **learning new web technologies** and **building applications that improve efficiency**
 - 🌱 I’m currently learning (mostly) **ReactJS** & **NodeJS**
 - 🤔  I’m looking for help with getting a remote job
