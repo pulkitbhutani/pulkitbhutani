@@ -1,7 +1,9 @@
 ### Hi there, I'm Pulkit 👋
 
 [![Twitter Badge](https://img.shields.io/badge/-@bhutanipulkit-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bhutanipulkit)](https://twitter.com/bhutanipulkit)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-@pulkitbhutani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pulkitbhutani/)](https://www.linkedin.com/in/pulkitbhutani/)
+<a href="https://www.linkedin.com/in/pulkitbhutani/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 [![Twitch: thaianebraga](https://img.shields.io/badge/-@pulkitbhutani-purple?style=flat-square&logo=twitch&logoColor=white)]
 (https://www.twitch.tv/javascriptwithpulkit/)
 
