@@ -3,6 +3,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-@bhutanipulkit-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bhutanipulkit)](https://twitter.com/bhutanipulkit)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-@pulkitbhutani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pulkitbhutani/)](https://www.linkedin.com/in/pulkitbhutani/)
 
+- 👀 I’m interested in **learning new web technologies** and **building applications that improve efficiency**
+- 🌱 I’m currently learning (mostly) **ReactJS** & **NodeJS**
+- 🤔  I’m looking for help with getting a remote job
+- 📫 How to reach me? Mail me at **pulkitbhutani@outlook.com**
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pulkitbhutani&show_icons=true&theme=dracula" alt="pulkitbhutani" /> 
 </p>
 <p align="left">
