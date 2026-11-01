@@ -22,23 +22,6 @@
 - 🚀 Also building **[Questin](https://questinhq.com)**, an AI-native platform for discovering and managing event sponsorships, where I lead brand partnerships
 - 📫 Reach me at **pulkitbhutani@outlook.com**
 
-### Tech I work with
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### Featured projects
-- **[Project name](link)**: one line on what it does and the stack.
-- **[Project name](link)**: one line on what it does and the stack.
-- **[Questin](https://questinhq.com)**: AI-native sponsorship platform connecting events and brands.
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=pulkitbhutani&show_icons=true&theme=dracula" alt="pulkitbhutani" />
