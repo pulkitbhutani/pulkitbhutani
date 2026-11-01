@@ -10,9 +10,6 @@
     <a href="https://www.linkedin.com/in/pulkitbhutani/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://pulkit-portfolio.netlify.app/">
-        <img src="https://img.shields.io/badge/portfolio-111827.svg?&style=for-the-badge&logo=netlify&logoColor=white" />
-    </a>
 </p>
 
 ### About Me
