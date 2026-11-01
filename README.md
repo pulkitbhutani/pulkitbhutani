@@ -17,7 +17,5 @@
 
 ### About Me
 - 💼 Build and ship product features across web (Angular) and mobile (Flutter), including high-traffic payment flows
-- 🌐 Experienced in multi-country products: i18n/l10n, feature flags and cross-platform code sharing
 - ⚡ Focused on performance, product thinking and smooth user experiences at scale
-- 🚀 Also building **[Questin](https://questinhq.com)**, an AI-native platform for discovering and managing event sponsorships, where I lead brand partnerships
 - 📫 Reach me at **pulkitbhutani@outlook.com**
