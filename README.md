@@ -21,8 +21,3 @@
 - ⚡ Focused on performance, product thinking and smooth user experiences at scale
 - 🚀 Also building **[Questin](https://questinhq.com)**, an AI-native platform for discovering and managing event sponsorships, where I lead brand partnerships
 - 📫 Reach me at **pulkitbhutani@outlook.com**
-
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=pulkitbhutani&show_icons=true&theme=dracula" alt="pulkitbhutani" />
-</p>
